@@ -1,0 +1,12 @@
+﻿// Dcrypto.cpp : Defines the entry point for the application.
+//
+
+#include "Dcrypto.h"
+
+using namespace std;
+
+int main()
+{
+	cout << "Hello CMake." << endl;
+	return 0;
+}
